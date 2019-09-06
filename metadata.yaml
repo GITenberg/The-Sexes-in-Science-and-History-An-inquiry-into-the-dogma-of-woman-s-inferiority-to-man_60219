@@ -1,5 +1,8 @@
 _repo: The-Sexes-in-Science-and-History-An-inquiry-into-the-dogma-of-woman-s-inferiority-to-man_60219
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60219-h/images/cover.jpg
 creator:
   author:
     agent_name: Gamble, Eliza Burt
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/332
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Gamble
 description: 'First edition published in 1894 under title: The Evolution of Woman.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60219#The-Sexes-in-Science-and-History-An-inquiry-into-the-dogma-of-woman-s-inferiority-to-man
 gutenberg_issued: '2019-09-01'
 gutenberg_type: Text
 identifiers:
